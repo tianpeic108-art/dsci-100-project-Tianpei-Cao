@@ -1,5 +1,8 @@
 # Template for UBC DSCI 100 2026 Fall
 
-Author: Sky (Kehan) Sheng
+Author: Tianpei Cao
 
 This repository is originally adapted from Grace Tompkins' repo [DSCI-100-Project-Demo-2026](https://github.com/grcetmpk/DSCI-100-Project-Demo-2026.git)
+
+New changes made from Github on the cloud!
+
